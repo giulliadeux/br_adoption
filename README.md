@@ -1,0 +1,1 @@
+This project visualises the demographics of children awaiting adoption in Brazil (data retrieved from CNA - Cadastro Nacional de Adoção) and the preferences of prospective adoptive parents, uncovering mismatches in the adoption process strongly related to systemic issues influenced by socio-racial and demographic factors.
